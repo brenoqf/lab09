@@ -19,6 +19,6 @@ def classificar_aluno(media, presenca):
     # Mutantes que alteram operadores lógicos
     # Mutantes que alteram operadores relacionais
 
-    #c)
+    #c)Após todos os mutantes estarem mortos, o MS final é de 100%
 
-    #d)
+    #d)Ao colocar essa condição, o teste passa a não só pegar um erro de valor, mas também ver se a mensagem dada pelo teste corresponde com o padrão informado
